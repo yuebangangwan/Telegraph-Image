@@ -1,5 +1,5 @@
 # Telegraph-Image
-免费图片托管解决方案，Flickr/imgur替代品。使用Cloudflare Pages和Telegraph。
+免费图片托管解决方案，Flickr/imgur替代品。使用Cloudflare Pages和Telegraph。加油哦！
 
 [English](README-EN.md)|中文
 
